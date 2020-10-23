@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Speed Regex
+*Francisco Galán, Nayely Saldivar*
 
-*[Your Cohort, Campus & Date]*
+*DAPT 2020, Ciudad de México, Octubre 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,13 +14,12 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
-
+Juego para poner a prueba tu habilidad para crear expresiones regulares. 
+¡Consigue el mayor número de puntos y rompe el récord!  
 <a name="workflow"></a>
 
 ## Workflow
 Outline the workflow you used in your project. What were the steps you went through?
-
 <a name="organization"></a>
 
 ## Organization
